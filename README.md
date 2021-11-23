@@ -1,3 +1,3 @@
 # RenziCrypter
-C++ AV evading tool. Supports either x86 and x64.
+C++ AV evading tool. Supports either x86 and x64.  
 Still in development... 
