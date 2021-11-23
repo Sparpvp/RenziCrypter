@@ -8,6 +8,6 @@
 #define X_GetThreadContext Wow64GetThreadContext
 #define X_PCONTEXT PWOW64_CONTEXT
 #else
-#define Cross_GetThreadContext GetThreadContext
+#define X_GetThreadContext GetThreadContext
 #define X_PCONTEXT PCONTEXT
 #endif
